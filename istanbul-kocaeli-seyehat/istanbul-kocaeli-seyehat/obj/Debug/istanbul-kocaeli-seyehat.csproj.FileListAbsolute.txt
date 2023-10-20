@@ -1,0 +1,17 @@
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\bin\Debug\istanbul-kocaeli-seyehat.exe.config
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\bin\Debug\istanbul-kocaeli-seyehat.exe
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\bin\Debug\istanbul-kocaeli-seyehat.pdb
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul-kocaeli-seyehat.csproj.AssemblyReference.cache
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul_kocaeli_seyehat.Form1.resources
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul_kocaeli_seyehat.Form2.resources
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul_kocaeli_seyehat.Properties.Resources.resources
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul-kocaeli-seyehat.csproj.GenerateResource.cache
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul-kocaeli-seyehat.csproj.CoreCompileInputs.cache
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul-kocaeli-seyehat.exe
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul-kocaeli-seyehat.pdb
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul_kocaeli_seyehat.Form3.resources
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\bin\Debug\Interop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\Interop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\istanbul-kocaeli-seyehat\istanbul-kocaeli-seyehat\obj\Debug\istanbul-kocaeli-seyehat.csproj.ResolveComReference.cache
